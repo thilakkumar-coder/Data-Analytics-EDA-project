@@ -224,6 +224,6 @@ It also demonstrates hands-on experience with **Python, Pandas, NumPy, Matplotli
 
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
-📌 GitHub: `https://github.com/thilakkumar-coder`
+📌 GitHub: https://github.com/thilakkumar-coder
 
-📌 LinkedIn: `https://www.linkedin.com/in/thilakkumar-r-7a0674414/`
+📌 LinkedIn: https://www.linkedin.com/in/thilakkumar-r-7a0674414/
